@@ -5,6 +5,10 @@
 <img src="https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite" alt=""/>
 <br>
 Moco的亲女儿框架，印象图来自Pixiv(110992993)
+<br>
+✨ฅ•∀•ฅ 可爱才是第一生产力 ฅ•∀•ฅ✨
+<br>
+(｡･ω･｡)つ━☆.. ・*。
 </p>
 
 ## 简介
@@ -34,9 +38,8 @@ Moco的亲女儿框架，印象图来自Pixiv(110992993)
 - 提问找不到重点
 - 重复提问
 
-> 请注意, Moco并没有义务回复您的问题. 您应该具备基本的提问技巧。
->
-有关如何提问，请阅读[《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
+> 请注意, Moco并没有义务回复您的问题. 您应该具备基本的提问技巧。  
+>有关如何提问，请阅读[《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
 
 ~~Moco可能会忘记看issues~~
 
