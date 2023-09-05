@@ -1,6 +1,4 @@
-# <p align="center">MocoBot</p>
-
-<p align="center"><img alt="Moco" height="447.5" src="img/MocoBot.jpg" width="310"/></p>
+# <p align="center"><img alt="Moco" height="447.5" src="img/MocoBot.jpg" width="310"/><br>MocoBot</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt=""/>
