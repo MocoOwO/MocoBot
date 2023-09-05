@@ -32,9 +32,10 @@
 - 提问找不到重点
 - 重复提问
 
-> 请注意, 开发者并没有义务回复您的问题. 您应该具备基本的提问技巧。  
+> 请注意, Moco并没有义务回复您的问题. 您应该具备基本的提问技巧。  
 > 有关如何提问，请阅读[《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
 
+~~Moco可能会忘记看issues~~
 
 ## 鸣谢
 
