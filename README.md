@@ -23,10 +23,23 @@
 - MocoBot 不会通过任何方式强制收取费用，或对使用者提出物质条件
 - MocoBot 无法监督每个使用者的使用情况，所以请自觉不要用于非法用途
 
+## 关于 ISSUE
+
+以下 ISSUE 会被直接关闭
+
+- 提交 BUG 不使用 Template
+- 询问已知问题
+- 提问找不到重点
+- 重复提问
+
+> 请注意, 开发者并没有义务回复您的问题. 您应该具备基本的提问技巧。  
+> 有关如何提问，请阅读[《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
+
+
 ## 鸣谢
 
 [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp) 提供了底层服务支持  
-oneBot V11 (网址找不到了) 提供的数据结构以及规范  
+[oneBot V11](https://github.com/botuniverse/onebot-11) 提供的数据结构以及规范  
 [jazzband/prettytable](https://github.com/jazzband/prettytable) 提供了漂亮的表格  
 [pallets/flask](https://github.com/pallets/flask) 提供的http服务器  
 [tartley/colorama](https://github.com/tartley/colorama) 提供的多彩输出  
