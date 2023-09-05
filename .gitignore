@@ -1,0 +1,6 @@
+/db/*
+/venv/
+/Plugin/*
+/wt start.bat
+/QQBOT.zip
+/.idea/
