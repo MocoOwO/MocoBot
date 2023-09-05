@@ -11,6 +11,10 @@
 
 ~~为什么是问号啊喂~~
 
+## 用法
+
+咕了
+
 ## 鸣谢
 
 [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp) 提供了底层服务支持  
