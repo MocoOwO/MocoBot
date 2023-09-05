@@ -1,6 +1,6 @@
 # <p align="center">MocoBot</p>
 
-![Moco](img\MocoBot.jpg)
+![Moco](img/MocoBot.jpg)
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt=""/>
