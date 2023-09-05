@@ -51,3 +51,6 @@ Moco的亲女儿框架，印象图来自Pixiv(110992993)
 [pallets/flask](https://github.com/pallets/flask) 提供的http服务器  
 [tartley/colorama](https://github.com/tartley/colorama) 提供的多彩输出  
 [PyCharm](https://www.jetbrains.com/pycharm/) 提供极其强大的功能，是个在各个方面都最大程度地提高了Moco生产力的 IDE
+
+<hr>
+<p align="center">底线到了,再看变傻瓜ww(｡･ω･｡)つ━☆.. ・*。</p>
