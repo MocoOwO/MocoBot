@@ -1,5 +1,7 @@
 # <p align="center">MocoBot</p>
 
+![Moco](img\MocoBot.jpg)
+
 <p align="center">
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt=""/>
 <img src="https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite" alt=""/>
