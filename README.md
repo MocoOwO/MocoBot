@@ -3,6 +3,8 @@
 <p align="center">
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" alt=""/>
 <img src="https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite" alt=""/>
+<br>
+Moco的亲女儿框架，印象图来自Pixiv(110992993)
 </p>
 
 ## 简介
