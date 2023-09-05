@@ -29,7 +29,7 @@ Moco的亲女儿框架，印象图来自Pixiv(110992993)
 - MocoBot 不会通过任何方式强制收取费用，或对使用者提出物质条件
 - MocoBot 无法监督每个使用者的使用情况，所以请自觉不要用于非法用途
 
-## 关于 ISSUE
+## 关于 ISSUE (ﾟヘﾟ)？
 
 以下 ISSUE 会被直接关闭
 
@@ -43,7 +43,7 @@ Moco的亲女儿框架，印象图来自Pixiv(110992993)
 
 ~~Moco可能会忘记看issues~~
 
-## 鸣谢
+## 鸣谢 (*ゝω・)ﾉ
 
 [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp) 提供了底层服务支持  
 [oneBot V11](https://github.com/botuniverse/onebot-11) 提供的数据结构以及规范  
