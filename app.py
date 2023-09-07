@@ -12,6 +12,7 @@ FirstStart = True
 # 禁用FlaskLog
 log = logging.getLogger('werkzeug')
 log.disabled = True
+
 MAX_WORKER = 16
 Host = CONFIG.Host
 PluginPATH = "./Plugin/"
@@ -59,7 +60,7 @@ def main_task():
             if data.group_id != 830813843:
                 pool.submit(FindReply, data, pl)
         else:
-            print(FindReply,data,pl)
+            print(FindReply, data, pl)
 
     # print(type(data))
     return """{
