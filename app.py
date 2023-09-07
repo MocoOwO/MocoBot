@@ -1,7 +1,7 @@
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-from Builtin import eventclass
+from Builtin import eventclass, CONFIG
 import logging
 import Builtin
 from flask import Flask, request
@@ -13,7 +13,7 @@ FirstStart = True
 log = logging.getLogger('werkzeug')
 log.disabled = True
 MAX_WORKER = 16
-Host = 'http://localhost:5702/'
+Host = CONFIG.Host
 PluginPATH = "./Plugin/"
 
 pool = ThreadPoolExecutor(max_workers=MAX_WORKER)
